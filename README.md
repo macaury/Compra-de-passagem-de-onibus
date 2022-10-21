@@ -42,7 +42,7 @@ Este projeto foi desenvolvido para servir de 3a nota para a cadeira de Linguagem
 ## Screenshots
 
 
-![Tela de Login](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Tela de Login](https://github.com/macaury/Compra-de-passagem-de-onibus/blob/main/Screenshots/login.jpeg)
 
 
 #### Usuario : ADM
@@ -52,5 +52,5 @@ Este projeto foi desenvolvido para servir de 3a nota para a cadeira de Linguagem
 ![Compra das passagens](https://github.com/macaury/Compra-de-passagem-de-onibus/blob/main/Screenshots/comprar%20passagens.jpeg)
 
 
-![Passagens compradas](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Passagens compradas](https://github.com/macaury/Compra-de-passagem-de-onibus/blob/main/Screenshots/passagens%20compradas.jpeg)
 
