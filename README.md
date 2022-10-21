@@ -40,14 +40,14 @@ Este projeto foi desenvolvido para servir de 3a nota para a cadeira de Linguagem
 ## Screenshots
 
 
-![Tela de Login](https://github.com/macaury/Compra-de-passagem-de-onibus/blob/main/Screenshots/login.jpeg)
+![Tela de Login]<img src="https://github.com/macaury/Compra-de-passagem-de-onibus/blob/main/Screenshots/login.jpeg" width="300" height="400">
 
 
 #### Usuario : ADM
 #### senha : 1234
 
 
-![Compra das passagens](https://github.com/macaury/Compra-de-passagem-de-onibus/blob/main/Screenshots/comprar%20passagens.jpeg)
+![Compra de passagens]<img src="https://github.com/macaury/Compra-de-passagem-de-onibus/blob/main/Screenshots/comprar%20passagens.jpeg" width="300" height="400">
 
 
-![Passagens compradas](https://github.com/macaury/Compra-de-passagem-de-onibus/blob/main/Screenshots/passagens%20compradas.jpeg)
+![Passagens compradas]<img src="https://github.com/macaury/Compra-de-passagem-de-onibus/blob/main/Screenshots/passagens%20compradas.jpeg" width="400" height="400">
