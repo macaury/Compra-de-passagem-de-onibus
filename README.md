@@ -49,7 +49,7 @@ Este projeto foi desenvolvido para servir de 3a nota para a cadeira de Linguagem
 #### senha : 1234
 
 
-![Compra das passagens](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Compra das passagens](https://github.com/macaury/Compra-de-passagem-de-onibus/blob/main/Screenshots/comprar%20passagens.jpeg)
 
 
 ![Passagens compradas](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
