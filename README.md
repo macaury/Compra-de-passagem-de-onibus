@@ -1,19 +1,17 @@
-
 ## Authors
 
+
 - [@macaury](https://www.github.com/macaury)
+
 
 ### Contatos 
 
 
-
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](macauryDevs@gmail.com)
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/macaury-carvalho-5011b8205/)
 
-![Tamanho do repositorio](https://img.shields.io/github/repo-size/macaury/Compra-de-passagem-de-onibus)
-
-
+[![Tamanho do repositorio](https://img.shields.io/github/repo-size/macaury/Compra-de-passagem-de-onibus)](https://github.com/macaury/Compra-de-passagem-de-onibus/tree/main/src/main/java/com/mycompany/carvalhoticket)
 
 
 # Sobre o Projeto
@@ -26,11 +24,11 @@ Este projeto foi desenvolvido para servir de 3a nota para a cadeira de Linguagem
 ## Tecnologias utilizadas
 
 
-![GitHub repo size](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Linguagem Utilizada](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
  
-![GitHub repo size](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Sistema Operacional usado](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
  
-![GitHub repo size](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
+![IDE do desenvolvimento](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
 
 
 ## Objetivos para o futuro
@@ -38,8 +36,6 @@ Este projeto foi desenvolvido para servir de 3a nota para a cadeira de Linguagem
 - Adicionar Banco de Dados
 - Implementar funcao para criar novos usuarios 
 - Melhorar interface grafica
-
-
 
 ## Screenshots
 
@@ -55,4 +51,3 @@ Este projeto foi desenvolvido para servir de 3a nota para a cadeira de Linguagem
 
 
 ![Passagens compradas](https://github.com/macaury/Compra-de-passagem-de-onibus/blob/main/Screenshots/passagens%20compradas.jpeg)
-
