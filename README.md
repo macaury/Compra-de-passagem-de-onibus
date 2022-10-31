@@ -18,6 +18,7 @@
 
 # Sobre o Sistema
 
+
 <p align="justify">
 Este projeto foi desenvolvido para servir de 3ª nota para a cadeira de Linguagem de Programacao II, do curso de Sistemas Informacao no Instituto Federal de Educacao, Ciencia e Tecnologia do Maranhao(IFMA). Entretanto o sistema ainda não estar como eu gostaria, mesmo obtendo aprovação da cadeira,continuarei o projeto para fins pessoais.
 </p>
