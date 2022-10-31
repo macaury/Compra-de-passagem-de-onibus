@@ -16,7 +16,6 @@
 - [✒️ Autor](#Autor)
 
 
-
 # Sobre o Sistema
 
 <p align="justify">
