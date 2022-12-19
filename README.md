@@ -31,7 +31,7 @@ Este projeto foi desenvolvido para servir de 3ª nota para a cadeira de Linguage
 - Criação de interface gráfica para o sistema
 
 
-## Funções do Sistema
+## Funcionalidade do Sistema
 
 :heavy_check_mark: `Login:` Permite entrar com uma credêncial no sistema .
 
